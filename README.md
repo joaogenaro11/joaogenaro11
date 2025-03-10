@@ -25,7 +25,7 @@
 
 ---
 
-## 🌎 Conecte-se comigo
+## 🌎 Contact me
 
 📧 **E-mail:** [genastrb@gmail.com](mailto:genastrb@gmail.com)  
 🔗 **LinkedIn:** [João Lima](https://www.linkedin.com/in/jo%C3%A3o-lima-9b0833333/)
