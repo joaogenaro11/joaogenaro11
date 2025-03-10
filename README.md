@@ -15,7 +15,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 ---
-
+### **📦 Sistemas Operacionais**  
+<p align="left">
+    <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=windows" height="30"/>
+    <img src="https://img.shields.io/badge/-MacOs-333333?style=flat&logo=macos" height="30"/>
+</p>
+---
 ## 📊 GitHub Stats
 
 <p align="center">
