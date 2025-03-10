@@ -1,7 +1,7 @@
 # 👋 Hello, I'm João Genaro!
 
-## 💻 Back-end Dev 
-## 🖥️ Software Engineering - 3rd Semester
+### 💻 Back-end Dev 
+### 🖥️ Software Engineering - 3rd Semester
 
 ---
 
