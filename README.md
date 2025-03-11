@@ -26,7 +26,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=joaogenaro11&show_icons=true&theme=dracula" alt="GitHub Stats de joaogenaro11"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogenaro11&layout=compact&exclude_repo=TPAA-IDP&theme=dracula" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogenaro11&layout=compact&exclude_repo=TPAA-IDP&theme=dracula"/>
 </p>
 
 ---
