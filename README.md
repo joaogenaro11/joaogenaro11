@@ -38,7 +38,7 @@
 ### 🖥️ Operating Systems  
 ![Windows 10](https://img.shields.io/badge/Windows-10-blue?style=for-the-badge&logo=windows&logoColor=white)  
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
-![Linux (learning)](https://img.shields.io/badge/Linux-(em%20aprendizado)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux (learning)](https://img.shields.io/badge/Linux-(Learning)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
