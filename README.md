@@ -1,6 +1,6 @@
 # 👋 Hello, I'm João Genaro!
 
-🎯 Future Cloud Security Architect & CISO  
+🎯 Future Cloud Security Architect  
 📚 Software Engineering Student – 3rd Semester  
 ☁️ Passionate about Cybersecurity, Cloud and Governance  
 
