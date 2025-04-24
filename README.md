@@ -20,8 +20,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
-![JavaScript (Learning)](https://img.shields.io/badge/JavaScript%20(Learning)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust (Learning)](https://img.shields.io/badge/Rust%20(Learning)-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell (Learning)](https://img.shields.io/badge/Shell%20(Learning)-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 💾 Databases
