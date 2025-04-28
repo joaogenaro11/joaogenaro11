@@ -16,19 +16,23 @@
 
 ## 🚀 Tech Stack & Tools (Learning and Using)
 
-### 🧠 Languages & Scripting
+### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🤖 Automations
 ![Shell (Learning)](https://img.shields.io/badge/Shell%20(Learning)-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash (Learning)](https://img.shields.io/badge/Bash%20(Learning)-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevSecOps (Learning)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 
 ### 🛠️ Tools & IDEs
@@ -40,6 +44,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)<br>
 ![Linux (Learning)](https://img.shields.io/badge/Linux%20(Learning)-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
