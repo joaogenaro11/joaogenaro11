@@ -23,7 +23,7 @@
 
 ### 🤖 Automations
 ![Shell (Learning)](https://img.shields.io/badge/Shell%20(Learning)-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Bash (Learning)](https://img.shields.io/badge/Bash%20(Learning)-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Makefile (Learning)](https://img.shields.io/badge/Makefile%20(Learning)-FF8800?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
